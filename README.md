@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A26-Projects
-- 👀 I’m interested in Python, Java, Unity, AI, Neural networks, shell scripting[bash], 3-D art[blender], robotics and electronics[Arduino]. 
-- 🌱 I’m currently learning Python[course on ML and Neural networks], Java and Arduino
+- 👀 I’m interested in Python, Java, shell scripting[bash], robotics[Arduino]. 
+- 🌱 I’m currently learning Python, Java and Arduino
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - idk
 
