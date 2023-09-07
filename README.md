@@ -7,7 +7,7 @@
 
 <h1>I am Infernikon...</h1>
 <ul style='circle'>
-<li><h3>I like programmming and doing cool stuff with the terminal</h3></li>
+<li><h3>I like programmming and cryptography</h3></li>
 <li><h3>I am also interested in VFX and Web Development</h3></li>
 <li><h3>I am currently learning Java, C and Shell Scripting</h3></li>
 <li><h3>I enjoy Ricing Operating Systems</h3></li>
