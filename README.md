@@ -5,7 +5,7 @@
 <i>Strirred in a pot of Olympian Clay; I wish</i><br>
 <i>That you may have a mighty great day!</i><br></b>      
 
-<h1>I am Infernikon...</h1>
+<h1>I am Aryaman...</h1>
 <ul style='circle'>
 <li><h3>I like programmming and cryptography</h3></li>
 <li><h3>I am also interested in VFX and Web Development</h3></li>
