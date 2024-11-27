@@ -1,17 +1,4 @@
-<h1>Hello!</h1>                                                  
-<b><i>With the power of The Potion of Lextozar</i><br>       
-<i>Made from the water of a holy bay</i><br>                
-<i>Graced with light from a burning star</i><br>
-<i>Strirred in a pot of Olympian Clay; I wish</i><br>
-<i>That you may have a mighty great day!</i><br></b>      
-
-<h1>I am Aryaman...</h1>
-<ul style='circle'>
-<li><h3>I like programmming and cryptography</h3></li>
-<li><h3>I am also interested in VFX and Web Development</h3></li>
-<li><h3>I am currently learning Java, C and Shell Scripting</h3></li>
-<li><h3>I enjoy Ricing Operating Systems</h3></li>
-</ul> 
+<li><h3>hi! i like programmming.</h3></li>
 
 <br>
 
